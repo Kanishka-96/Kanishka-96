@@ -88,14 +88,13 @@ experience to relate to a wide range of people. Enjoy learning new things, can w
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
+  	    <li><b>OS:</b> Kali 2020.1a </li>
+	    <li><b>Laptop: </b> ACER PREDATOR TRITON 300 (i5)</li>
+  	    <li><b>Browser: </b> Google Crome </li>
+	    <li><b>Code Editor:</b> Vim </li>
+	    
 	    <br />
 	
-	</ul>	
 </details>
 
 #
