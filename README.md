@@ -92,8 +92,6 @@ experience to relate to a wide range of people. Enjoy learning new things, can w
 	    <li><b>Laptop: </b> ACER PREDATOR TRITON 300 (i5)</li>
   	    <li><b>Browser: </b> Google Crome </li>
 	    <li><b>Code Editor:</b> Vim </li>
-	    
-	    <br />
 	
 </details>
 
