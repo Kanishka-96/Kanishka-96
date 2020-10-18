@@ -3,8 +3,8 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_____pancha_____/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 A young, mature, positive and hardworking individual, who always strives to achieve the highest standard possible at any given task, have excellent communication skills and
 experience to relate to a wide range of people. Enjoy learning new things, can work very well under pressure and always act in a sensitive and diplomatic mannet and also a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
