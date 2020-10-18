@@ -89,7 +89,7 @@ experience to relate to a wide range of people. Enjoy learning new things, can w
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Kali 2020.1a </li>
-	    <li><b>Laptop: </b> ACER PREDATOR TRITON 300 (i5)</li>
+	    <li><b>Laptop: </b> ACER PREDATOR TRITON 300 </li>
   	    <li><b>Browser: </b> Google Crome </li>
 	    <li><b>Code Editor:</b> Vim </li>
 	
