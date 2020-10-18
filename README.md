@@ -14,7 +14,7 @@ experience to relate to a wide range of people. Enjoy learning new things, can w
 
 - 🛠 &nbsp; I’m currently working with updated Network Devices
 - 🚀 &nbsp; I’m currently learning to be a Network Engineer.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kanishka-96).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kanishka-96?tab=repositories).
 - 👾 &nbsp; Fun fact: My network is my net worth
 - 📫 &nbsp; How to reach me: kanishkaios96@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
