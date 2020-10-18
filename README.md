@@ -17,7 +17,7 @@ experience to relate to a wide range of people. Enjoy learning new things, can w
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kanishka-96?tab=repositories).
 - 👾 &nbsp; Fun fact: My network is my net worth
 - 📫 &nbsp; How to reach me: kanishkaios96@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Kanishka-96/Kanishka-96/blob/main/CURRICULUM%20VITAE.pdf).
 
 ### Languages and Tools:
 
